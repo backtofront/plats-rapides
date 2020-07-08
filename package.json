@@ -1,0 +1,24 @@
+{
+  "name": "rapid",
+  "version": "1.0.0",
+  "description": "For quickly prototyping sites with Tailwind",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx tailwindcss build styles.css -o output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backtofront/rapid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/backtofront/rapid/issues"
+  },
+  "homepage": "https://github.com/backtofront/rapid#readme"
+}
