@@ -1,13 +1,26 @@
-# Misc
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
 *.log
-npm-debug.*
-*.scssc
+*.rej
+*.swo
 *.swp
-.DS_Store
-Thumbs.db
-.sass-cache
-.env
-.cache
+*.vi
+*~
+*.sass-cache
 
-# Node modules and output
-node_modules
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+nbproject
+Thumbs.db
+
+# NPM packages folder.
+node_modules/
+
+# Brunch output folder.
+public/
