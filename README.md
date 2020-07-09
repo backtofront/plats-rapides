@@ -1,5 +1,5 @@
-# Rapid
-## For quickly prototyping sites with Tailwind
+# Plats Rapides
+## Quick prototyping with Brunch and Tailwind
 
 Using: 
 
